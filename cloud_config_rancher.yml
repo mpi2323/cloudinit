@@ -1,6 +1,0 @@
-#cloud-config
-users:
-  - name: rancher
-    ssh-authorized-keys:
-      - ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAw2caEIHdaxX1Oqotm9Mm7LbJvJLa+HB1YircdErxa2f0RTPZwc7lKnPnzg1ihfw4ecF0Nx1CyqlNWZ8gAuTMdbSUH5jpCSu6fcmQKlFRrnwiWEUj4BEOQ3ZWWp1SVK8798DJdaLcWnlPa15MRlQ1XKiDkbQtpbFJx8DtkYMR5j+t6icfsQGoeKQwmMEW0LQJKNZ7OmB6qEjIg1J/fq2MsLoebx8yVKKPrHVg761p+KtmI6ICR/oHgxBsWR+ozJCx31VkBF3b+v4U29ExuNWOFq3avKnPWGTotASsxaC3duU9FhhxLkfo2dRWpuiAXVXpgC4iDQI/AlFQ9lKnl8JHYQ== imported-openssh-key
-    sudo: ['ALL=(ALL) NOPASSWD:ALL'] 
